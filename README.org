@@ -1,0 +1,9 @@
+* cl-yacc
+
+Common Lisp Yacc
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/jech/cl-yacc.git |
+| commit  | 1812e05                                 |
+| systems | cl-yacc                                 |
+|---------+-----------------------------------------|
